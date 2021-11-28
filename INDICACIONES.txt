@@ -1,0 +1,28 @@
+El proyecto aun no tiene configurado Login porlo que no pedira usuario y contrasena al iniciar
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+Base de datos: textil.sql
+
+
+-> Crear una base de datos con el nombre textil posteriormente importar el archivo textil.sql que se encuentra dentro de la carpeta del proyecto
+
+
+
+
+
+
+
+
+	---------------INTEGRANTES------------------
+	
+
+1.	Diana Carolina Barillas Vázquez		BV01135639
+2.	Aguilar Sánchez, Henry David		AS01134801
+3.	Adiel Enoc Puentes Monge 
+4.	Aldemaro Andrés Hernández Dimas	HD01134237
+
+
+
+
